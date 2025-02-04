@@ -5,6 +5,7 @@
   <classes>
   	<class name="testCases.Login" />
   	<class name="testCases.ShoppingCart" />
+  	<class name="testCases.MakePayment" />
   </classes>
   
   </test> <!-- Test -->
